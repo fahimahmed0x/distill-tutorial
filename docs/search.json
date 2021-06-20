@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-20T11:47:34-04:00"
+      "contents": "\r\nAbout Me\r\nMy name’s Fahim. I’m an incoming University of Waterloo student, passionate about computer science and finance.\r\nAbout the Project\r\nMy project, The Title of My Project, contains a graph that shows the negative correlation between a car’s fuel efficiency and weight.\r\nGoals\r\nI learn through this project.\r\nI’m proud of this project.\r\nI will add multiple graphs.\r\n\r\n“This is data science” ~ Preceptor\r\nKane’s Free High school Data Science Bootcamp\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-20T12:23:03-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is where I will describe my final project.\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-20T11:47:37-04:00"
+      "last_modified": "2021-06-20T12:23:06-04:00"
     }
   ],
   "collections": []

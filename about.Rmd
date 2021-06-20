@@ -8,3 +8,17 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+My name's **Fahim**. I'm an incoming University of Waterloo student, passionate about computer science and finance.
+
+## About the Project
+My project, *The Title of My Project*, contains a graph that shows the negative correlation between a car's fuel efficiency and weight.
+
+### Goals
+* I learn through this project.
+* I'm proud of this project.
+  + I will add multiple graphs.
+  
+"This is data science"  ~ Preceptor
+
+[Kane's Free High school Data Science Bootcamp](https://bootcamp.davidkane.info)
